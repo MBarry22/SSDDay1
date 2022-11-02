@@ -1,0 +1,12 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "My First Node App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app"
+  },
+  "author": "Josh Solomon",
+  "license": "ISC"
+}
